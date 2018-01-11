@@ -1,2 +1,3 @@
 // write your code below!
-function happyHolidays(string){
+function happyHolidays(string) {
+  
